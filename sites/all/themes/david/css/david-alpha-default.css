@@ -1,0 +1,69 @@
+body {
+    font-size: 100%;
+}
+
+.site-name {
+	padding-top: 5px;
+}
+
+#zone-branding-wrapper ul.menu {float: right; margin-top: 0px; }
+#zone-branding-wrapper ul.menu li {float: left; list-style: none; margin: 0 0 0 0.5em; position: relative;}
+#zone-branding-wrapper ul.menu li:last-child {margin: 0 0 0 0.5em;}
+#zone-branding-wrapper ul.menu li a {background: none; color: #565751; padding: 5px 10px; text-decoration: none; text-shadow: 0 1px 1px rgba(255, 255, 255, 0.7); font-size: 80%;}
+#zone-branding-wrapper ul.menu li a:after {content: " /"; color: #C2C2C2; margin-left: 1.3em;}
+#zone-branding-wrapper ul.menu li.last a {padding-right: 0;}
+#zone-branding-wrapper ul.menu li.last a:after {content: "";margin-left: 0;}
+#zone-branding-wrapper ul.menu li a:hover { background: none repeat scroll 0 0 transparent; /*border-bottom: 1px solid #ADADA5;*/ border-radius: 0; color: #000000;text-decoration: none;}
+#zone-branding-wrapper ul.menu li a.active {color: #a864a8;}
+
+#region-footer-first {text-align: left;}
+#region-footer-second {text-align: right;}
+
+.logo-img img {height: 43px; width: auto;}
+.logo-img {text-align: left; float: left; margin-right: 20px;}
+
+.view-portfolio ul li {
+	min-height: 400px;
+}
+
+.skill-box {
+	min-height: 260px;
+}
+
+body.front #region-postscript-third .block, body.front #region-postscript-fourth .block {margin-bottom: 0;}
+
+a.top-menu {
+display: none;
+}
+
+ul.menu {
+display: block;
+}
+
+.site-name a {
+font: 50px/43px 'BebasNeueRegular',Arial ,sans-serif;
+}
+
+
+.view-skills ul li {
+  min-height: auto;
+
+}
+
+
+/*#region-sidebar-second .block-flippy {background: none; margin: 0; padding: 0; font-size: 200%;}
+#region-sidebar-second .block-flippy ul {margin: 0;}
+#region-sidebar-second .block-flippy ul li.previous {float: left;}
+#region-sidebar-second .block-flippy ul li.next {float: right;}
+
+#region-sidebar-second .block-flippy ul li a { padding: 0px 20px;}*/
+
+
+
+/*#region-sidebar-second .block-flippy ul li a {position: fixed; top: 30%; border-bottom: 0 none; line-height: 1.5em; transition: margin 0.17s ease-in-out 0s;}
+
+#region-sidebar-second .block-flippy ul li a:hover {}
+#region-sidebar-second .block-flippy ul li.previous a {left: 0; border-radius: 0 3px 3px 0; padding: 0 10px 0 30px; }
+#region-sidebar-second .block-flippy ul li.next a {right: 0; border-radius: 3px 0 0 3px; padding: 0 30px 0 10px;}*/
+
+

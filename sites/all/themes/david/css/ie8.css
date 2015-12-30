@@ -1,0 +1,12 @@
+body {
+	background: red !important;
+}
+
+.front a img {
+	width: auto;
+	background: red;
+}
+
+img {
+	width: auto !important;
+}
